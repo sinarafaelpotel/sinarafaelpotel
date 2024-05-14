@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinarafaelpotel
 - 👀 I’m interested in neuroscience, neurology, and more precisely in movement disorders and Parkinson's disease
 - 🌱 I’m currently learning HR-EEG signal processing, connectivity and many others
-- 💞️ I’m looking to collaborate on similar projects... as soon as I have enough time!
+- 💞️ I’d love to collaborate on similar projects... as soon as I have enough time!
 - 📫 How to reach me : sinarafaelpotel@gmail.com
 
 <!---
